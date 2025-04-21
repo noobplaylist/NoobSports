@@ -27,8 +27,8 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install curl_cffi beautifulsoup4 fuzzywuzzy python-Levenshtein
-
+        run: pip install aiohttp beautifulsoup4
+        
       - name: Run the script
         run: |
           curl -o topembed.py "${{ secrets.TOPEMBED_CHANNELS_URL }}"
