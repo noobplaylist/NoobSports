@@ -11,11 +11,7 @@
 - ```https://iptv-scraper-re.vercel.app/aesport```
 - ```https://iptv-scraper-re.vercel.app/nizarstream```
 - ```https://iptv-scraper-re.vercel.app/streameast```
----
-### Stremio Addon
-- ```https://moveonjoy-stremio.vercel.app/```
-- ```https://tvpass-stremio.vercel.app/```
----
+
 
 ### Recommended Players
 #### Android
