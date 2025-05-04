@@ -708,17 +708,23 @@ https://dokko1new.newkso.ru/dokko1/premium535/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium911/mono.m3u8
 
-#EXTINF:-1 tvg-id="Cytavision.Sports2.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 2 Cyprus
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
-#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium912/mono.m3u8
-
 #EXTINF:-1 tvg-id="Cytavision.Sports3.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 3 Cyprus
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium913/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports4.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 4 Cyprus
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium914/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports5.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cytavision.Sports6.HD.cy" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cytavision-sports.png" group-title="CYPRUS",Cytavision Sports 6 Cyprus
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -1758,12 +1764,6 @@ https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium475/mono.m3u8
 
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/monumental-sports-network.png" group-title="UNITED STATES",Monumental Sports Network
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
-#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium924/mono.m3u8
-
 #EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/motor-trend.png" group-title="UNITED STATES",Motor Trend
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
@@ -2124,12 +2124,6 @@ https://ddy6new.newkso.ru/ddy6/premium287/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium334/mono.m3u8
 
-#EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-film-poland.png" group-title="POLAND",Polsat Film Poland
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
-#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium564/mono.m3u8
-
 #EXTINF:-1 tvg-id="Polsat.News.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-news-poland.png" group-title="POLAND",Polsat News Poland
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
@@ -2147,12 +2141,6 @@ https://dokko1new.newkso.ru/dokko1/premium562/mono.m3u8
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-news-poland.png" group-title="POLAND",Polsat Sport News Poland
-#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
-#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium129/mono.m3u8
 
 #EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-poland.png" group-title="POLAND",Polsat Sport Poland
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -2392,7 +2380,7 @@ https://zekonew.newkso.ru/zeko/premium373/mono.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium294/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium294/mono.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png" group-title="UNITED STATES",Showtime 2 USA (SHO2) USA
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -3168,11 +3156,23 @@ https://windnew.newkso.ru/wind/premium420/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium368/mono.m3u8
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-grandstand.png" group-title="SOUTH AFRICA",SuperSport Grandstand
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-maximo-1.png" group-title="SOUTH AFRICA",SuperSport MaXimo 1
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
@@ -3210,11 +3210,11 @@ https://zekonew.newkso.ru/zeko/premium416/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium418/mono.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-football.png" group-title="SOUTH AFRICA",Supersport Football
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-4.png" group-title="SOUTH AFRICA",SuperSport Variety 4
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
 
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tbs-usa.png" group-title="UNITED STATES",TBS USA
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
