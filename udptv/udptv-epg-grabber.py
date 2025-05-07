@@ -85,7 +85,9 @@ urls = [
   'https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz',
   'https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz',
   'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz',
+  'https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz',
   'https://epg.pw/api/epg.xml?lang=en&channel_id=413152',
+  'https://raw.githubusercontent.com/pigzillaaaaa/amazon-epg/refs/heads/main/amazon-epg.xml'
 ]
 
 if __name__ == "__main__":
