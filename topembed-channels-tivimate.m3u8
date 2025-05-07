@@ -30,6 +30,9 @@ https://x4new.newkso.ru/x4/arenasport2serbia/mono.m3u8|Referer=https://topembed.
 #EXTINF:-1 group-title="SERBIA",Arena Sport 3 [Serbia]
 https://x4new.newkso.ru/x4/arenasport3serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="SERBIA",Arena Sport 4 [Serbia]
+https://x4new.newkso.ru/x4/arenasport4serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="SERBIA",Arena Sport 5 [Serbia]
 https://x4new.newkso.ru/x4/arenasport5serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -129,6 +132,9 @@ https://top2new.newkso.ru/top2/ftkcosmote5/mono.m3u8|Referer=https://topembed.pw
 #EXTINF:-1 group-title="GREECE",Cosmote Sport 6 [Greece]
 https://top2new.newkso.ru/top2/ftkcosmote6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 7 [Greece]
+https://top2new.newkso.ru/top2/ftkcosmote7/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="GREECE",Cosmote Sport 8 [Greece]
 https://top2new.newkso.ru/top2/ftkcosmote8/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -210,6 +216,9 @@ https://top2new.newkso.ru/top2/arg_espn/mono.m3u8|Referer=https://topembed.pw/|U
 #EXTINF:-1 group-title="USA",ESPN [USA]
 https://hztnew.newkso.ru/hzt/eplayerespn_usa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="POLAND",Eleven Sports 1 [Poland]
+https://x4new.newkso.ru/x4/elevensports1pl/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="PORTUGAL",Eleven Sports 1 [Portugal]
 https://wikinew.newkso.ru/wiki/eplayereleven1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -273,6 +282,9 @@ https://wikinew.newkso.ru/wiki/fanduelsoutheast/mono.m3u8|Referer=https://topemb
 #EXTINF:-1 group-title="UK",Film 4 [UK]
 https://x4new.newkso.ru/x4/film4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="AUSTRALIA",Fox 503 [Australia]
+https://top2new.newkso.ru/top2/fox503/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="AUSTRALIA",Fox 506 [Australia]
 https://x4new.newkso.ru/x4/fox506/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -305,9 +317,6 @@ https://wikinew.newkso.ru/wiki/goltv/mono.m3u8|Referer=https://topembed.pw/|User
 
 #EXTINF:-1 group-title="USA",HBO [USA]
 https://x4new.newkso.ru/x4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",HGTV [USA]
-https://top2new.newkso.ru/top2/ustvhgtv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA",Hallmark Movies Mysteries TV [USA]
 https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -342,6 +351,9 @@ https://wikinew.newkso.ru/wiki/masn/mono.m3u8|Referer=https://topembed.pw/|User-
 #EXTINF:-1 group-title="USA",MLB Network [USA]
 https://hztnew.newkso.ru/hzt/ustvmlbnetwork1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="USA",MSNBC [USA]
+https://wikinew.newkso.ru/wiki/ustvmsnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="SPAIN",Movistar Deportes [Spain]
 https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -350,6 +362,9 @@ https://x4new.newkso.ru/x4/nbatvpt/mono.m3u8|Referer=https://topembed.pw/|User-A
 
 #EXTINF:-1 group-title="USA",NBATV [USA]
 https://hztnew.newkso.ru/hzt/nbatv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",NBC Sports Bay Area [USA]
+https://wikinew.newkso.ru/wiki/nbcsa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA",NBC [USA]
 https://wikinew.newkso.ru/wiki/ustvnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -411,6 +426,9 @@ https://azonew.newkso.ru/azo/newpremier1uk/mono.m3u8|Referer=https://topembed.pw
 #EXTINF:-1 group-title="UK",Premier Sports 2 [UK]
 https://azonew.newkso.ru/azo/newpremier2uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 group-title="ROMANIA",Prima Sport 1 [Romania]
+https://nfsnew.newkso.ru/nfs/premium583/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="ROMANIA",Prima TV [Romania]
 https://wikinew.newkso.ru/wiki/premium843/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -444,9 +462,6 @@ https://wikinew.newkso.ru/wiki/ustvshowtime/mono.m3u8|Referer=https://topembed.p
 #EXTINF:-1 group-title="GERMANY",Sky Bundesliga 1 [Germany]
 https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 2 [Germany]
-https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
-
 #EXTINF:-1 group-title="GERMANY",Sky Bundesliga 3 [Germany]
 https://x4new.newkso.ru/x4/eplayerSky_Sport_Bundesliga_3_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
@@ -461,6 +476,9 @@ https://x4new.newkso.ru/x4/eplayerSky_Sport_1_HD/mono.m3u8|Referer=https://topem
 
 #EXTINF:-1 group-title="NEWZEALAND",Sky Sport 1 [NewZealand]
 https://azonew.newkso.ru/azo/skynz1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="GERMANY",Sky Sport 2 [Germany]
+https://x4new.newkso.ru/x4/eplayerSky_Sport_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="NEWZEALAND",Sky Sport 2 [NewZealand]
 https://azonew.newkso.ru/azo/skynz2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
@@ -497,6 +515,9 @@ https://azonew.newkso.ru/azo/skynz7/mono.m3u8|Referer=https://topembed.pw/|User-
 
 #EXTINF:-1 group-title="GERMANY",Sky Sport 8 [Germany]
 https://x4new.newkso.ru/x4/eplayerSky_Sport_8_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="GERMANY",Sky Sport 9 [Germany]
+https://x4new.newkso.ru/x4/eplayerSky_Sport_9_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="GERMANY",Sky Sport Tennis [Germany]
 https://wikinew.newkso.ru/wiki/eplayerSky_Sport_Tennis_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
